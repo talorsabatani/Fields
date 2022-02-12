@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615574424834",
+    "firebase_url": "https://fields-app-a8910-default-rtdb.firebaseio.com",
+    "project_id": "fields-app-a8910",
+    "storage_bucket": "fields-app-a8910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615574424834:android:6faf7a324b67495c27c61b",
+        "android_client_info": {
+          "package_name": "com.talor.fields"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615574424834-vf84pbr24t7b5j6idohn0c872l02nfui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwivY7RaD7_BTk5s0doZ9PwZt-MOMYJS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615574424834-vf84pbr24t7b5j6idohn0c872l02nfui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
